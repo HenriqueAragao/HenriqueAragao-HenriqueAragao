@@ -8,9 +8,9 @@ Estudante de **Análise e Desenvolvimento de Sistemas** (3º semestre) focado em
 
 Com uma trajetória sólida de mais de **5 anos no setor bancário e suporte técnico** em grandes empresas como Atento e Konecta, desenvolvi uma habilidade analítica apurada. Minha experiência internacional na **Turquia** me permitiu dominar o inglês em ambientes multiculturais, facilitando minha atuação em times globais.
 
-- 🐍 **Foco Atual:** Python (Django/Flask) e Modelagem de Dados SQL.
+- 🐍 **Foco Atual:** Python (FastAPI / Django) e Modelagem de Dados SQL.
 - ⚙️ **Diferencial:** Experiência com manutenção de hardware e otimização de performance.
-- 🌍 **Idiomas:** Inglês fluente (experiência profissional no exterior).
+- 🌍 **Idiomas:** Inglês avançado (experiência profissional no exterior).
 
 ---
 
@@ -39,4 +39,4 @@ Com uma trajetória sólida de mais de **5 anos no setor bancário e suporte té
 ### 📬 Vamos nos conectar?
 
 <a href="mailto:henriquearagao.ads@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-<a href="https://www.linkedin.com/in/SEU-PERFIL-AQUI"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/henrique-aragao-0428073b2"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
